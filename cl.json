@@ -1,4 +1,4 @@
-dmin_dashbaord_v24_html_css_js_bootstap5-main\.gitlab-ci.yml
+  "$schema": "http://json-schema.org/draft-07/schema#",
 
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
@@ -2456,3 +2456,4 @@ sast:
   stage: test
 include:
 - template: Security/SAST.gitlab-ci.yml
+
