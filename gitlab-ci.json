@@ -1,6 +1,4 @@
-  E:\Test\แบบที่1.dmin_dashbaord_v24_html_css_js_bootstap5-main-20240828T042306Z-001\แบบที่1.dmin_dashbaord_v24_html_css_js_bootstap5-main\dmin_dashbaord_v24_html_css_js_bootstap5-main\.gitlab-ci.yml
-
-"$schema": "http://json-schema.org/draft-07/schema#",
+ 
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://gitlab.com/.gitlab-ci.yml",
